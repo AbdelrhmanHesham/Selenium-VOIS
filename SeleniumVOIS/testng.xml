@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="VOIS-Test Suite">
+	<test name="Card Checkout Test">
+		<classes>
+			<class name="seleniumVOIS.testcases.UserRegistrationTest"/>
+			<class name="seleniumVOIS.testcases.LoginTest"/>
+			<class name="seleniumVOIS.testcases.CartCheckOutTest"/>
+		</classes>
+	</test>
+</suite>

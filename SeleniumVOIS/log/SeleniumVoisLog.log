@@ -1,0 +1,105 @@
+2021-01-30 16:44:36,921 - Open browser  -INFO - ------------ Opening Browser ------------
+2021-01-30 16:44:36,930 - Open browser  -INFO - Open URL = http://automationpractice.com/index.php
+2021-01-30 16:44:41,558 - UserCanRegister -INFO - <<<Start TestCase UserCanRegisterSuccssfully Test>>>
+2021-01-30 16:44:41,738 - Check Element is displayed -INFO -  SignIn Link is Displayed successfully
+2021-01-30 16:44:43,872 - Check Element is displayed -INFO - Click on  SignIn Link
+2021-01-30 16:44:43,967 - Check Element is displayed -INFO -  Email is Displayed successfully
+2021-01-30 16:44:44,325 - Check Element is displayed -INFO - Set  Email : random-3dd5f0ec-1e8b-4615-b4dc-69fa5830f7c8@gmail.com
+2021-01-30 16:44:44,586 - Check Element is displayed -INFO -  Create An Account is Displayed successfully
+2021-01-30 16:44:44,736 - Check Element is displayed -INFO - Click on  Create An Account
+2021-01-30 16:44:46,254 - Check Element is displayed -INFO -  Gender is Displayed successfully
+2021-01-30 16:44:46,332 - Check Element is displayed -INFO - Click on  Gender
+2021-01-30 16:44:46,402 - Check Element is displayed -INFO -  first name is Displayed successfully
+2021-01-30 16:44:46,582 - Check Element is displayed -INFO - Set  first name : Abdelrahman
+2021-01-30 16:44:46,658 - Check Element is displayed -INFO -  last name is Displayed successfully
+2021-01-30 16:44:46,908 - Check Element is displayed -INFO - Set  last name : Hesham
+2021-01-30 16:44:46,990 - Check Element is displayed -INFO -  password is Displayed successfully
+2021-01-30 16:44:47,143 - Check Element is displayed -INFO - Set  password : Omar_87
+2021-01-30 16:44:47,215 - Check Element is displayed -INFO -  address section address is Displayed successfully
+2021-01-30 16:44:47,373 - Check Element is displayed -INFO - Set  address section address : Nassr ST
+2021-01-30 16:44:47,464 - Check Element is displayed -INFO -  address section city is Displayed successfully
+2021-01-30 16:44:47,599 - Check Element is displayed -INFO - Set  address section city : OCT
+2021-01-30 16:44:47,753 - Select Item from List -INFO - Select  address section state :  Alaska
+2021-01-30 16:44:47,827 - Check Element is displayed -INFO -  address section postcode is Displayed successfully
+2021-01-30 16:44:47,974 - Check Element is displayed -INFO - Set  address section postcode : 10000
+2021-01-30 16:44:48,056 - Select Item from List -INFO - Select  address section country :  United States
+2021-01-30 16:44:48,123 - Check Element is displayed -INFO -  address section phone is Displayed successfully
+2021-01-30 16:44:48,272 - Check Element is displayed -INFO - Set  address section phone : 9665592
+2021-01-30 16:44:48,344 - Check Element is displayed -INFO -  address section alias is Displayed successfully
+2021-01-30 16:44:48,485 - Check Element is displayed -INFO - Set  address section alias : SNP
+2021-01-30 16:44:48,563 - Check Element is displayed -INFO -  Register Button is Displayed successfully
+2021-01-30 16:44:52,859 - Check Element is displayed -INFO - Click on  Register Button
+2021-01-30 16:44:52,977 - Get Element Text -INFO - get text 'LogOut' Actual text is Sign out
+2021-01-30 16:44:52,981 - UserCanRegister -INFO - <<<End TestCase UserCanRegisterSuccssfully Test>>>
+2021-01-30 16:44:54,115 - Close browser  -INFO - Close Browser ...
+2021-01-30 16:44:56,876 - Open browser  -INFO - ------------ Opening Browser ------------
+2021-01-30 16:44:56,876 - Open browser  -INFO - Open URL = http://automationpractice.com/index.php
+2021-01-30 16:45:02,645 - Login -INFO - <<<Start TestCase Login Test>>>
+2021-01-30 16:45:02,775 - Check Element is displayed -INFO -  SignIn Link is Displayed successfully
+2021-01-30 16:45:04,739 - Check Element is displayed -INFO - Click on  SignIn Link
+2021-01-30 16:45:04,820 - Check Element is displayed -INFO -  Email is Displayed successfully
+2021-01-30 16:45:05,083 - Check Element is displayed -INFO - Set  Email : abdelrhmanscci@gmail.com
+2021-01-30 16:45:05,171 - Check Element is displayed -INFO -  Password is Displayed successfully
+2021-01-30 16:45:05,460 - Check Element is displayed -INFO - Set  Password : 11111
+2021-01-30 16:45:05,560 - Check Element is displayed -INFO -  Sign In is Displayed successfully
+2021-01-30 16:45:07,507 - Check Element is displayed -INFO - Click on  Sign In
+2021-01-30 16:45:07,723 - Get Element Text -INFO - get text 'LogOut' Actual text is Sign out
+2021-01-30 16:45:07,723 - Login -INFO - <<<End TestCase Login Test>>>
+2021-01-30 16:45:08,942 - Close browser  -INFO - Close Browser ...
+2021-01-30 16:45:11,801 - Open browser  -INFO - ------------ Opening Browser ------------
+2021-01-30 16:45:11,802 - Open browser  -INFO - Open URL = http://automationpractice.com/index.php
+2021-01-30 16:45:16,326 - Login -INFO - <<<Start TestCase Login Test>>>
+2021-01-30 16:45:16,450 - Check Element is displayed -INFO -  SignIn Link is Displayed successfully
+2021-01-30 16:45:18,718 - Check Element is displayed -INFO - Click on  SignIn Link
+2021-01-30 16:45:18,795 - Check Element is displayed -INFO -  Email is Displayed successfully
+2021-01-30 16:45:18,992 - Check Element is displayed -INFO - Set  Email : abdelrhmanscci@gmail.com
+2021-01-30 16:45:19,081 - Check Element is displayed -INFO -  Password is Displayed successfully
+2021-01-30 16:45:19,272 - Check Element is displayed -INFO - Set  Password : 11111
+2021-01-30 16:45:19,359 - Check Element is displayed -INFO -  Sign In is Displayed successfully
+2021-01-30 16:45:21,519 - Check Element is displayed -INFO - Click on  Sign In
+2021-01-30 16:45:21,669 - Get Element Text -INFO - get text 'LogOut' Actual text is Sign out
+2021-01-30 16:45:21,670 - Login -INFO - <<<End TestCase Login Test>>>
+2021-01-30 16:45:21,702 - CheckOutTheCard -INFO - <<<Start TestCase CheckOutTheCard Test>>>
+2021-01-30 16:45:21,791 - Check Element is displayed -INFO -  women category link is Displayed successfully
+2021-01-30 16:45:24,385 - Check Element is displayed -INFO - Click on  women category link
+2021-01-30 16:45:24,489 - Check Element is displayed -INFO -  blouse subcategory link is Displayed successfully
+2021-01-30 16:45:26,539 - Check Element is displayed -INFO - Click on  blouse subcategory link
+2021-01-30 16:45:26,640 - Get Element Text -INFO - get product price Actual text is $27.00
+2021-01-30 16:45:26,752 - Get Element Text -INFO - get product name Actual text is Blouse
+2021-01-30 16:45:26,830 - Check Element is displayed -INFO -  add to cart Button is Displayed successfully
+2021-01-30 16:45:26,950 - Check Element is displayed -INFO - Click on  add to cart Button
+2021-01-30 16:45:28,214 - Get Element Text -INFO - get add to cart confirmation Msg Actual text is Product successfully added to your shopping cart
+2021-01-30 16:45:28,300 - Get Element Text -INFO - get confirmed product price Actual text is $27.00
+2021-01-30 16:45:28,385 - Get Element Text -INFO - get confirmed shipping price Actual text is $2.00
+2021-01-30 16:45:28,474 - Get Element Text -INFO - get confirmed total price Actual text is $29.00
+2021-01-30 16:45:28,546 - Check Element is displayed -INFO -  proceed To Checkout Button is Displayed successfully
+2021-01-30 16:45:30,931 - Check Element is displayed -INFO - Click on  proceed To Checkout Button
+2021-01-30 16:45:31,019 - Get Element Text -INFO - get summary product price Actual text is $27.00
+2021-01-30 16:45:31,103 - Get Element Text -INFO - get summary tax price Actual text is $1.16
+2021-01-30 16:45:31,185 - Get Element Text -INFO - get summary total price Actual text is $30.16
+2021-01-30 16:45:31,267 - Get Element Text -INFO - get summary product name Actual text is Blouse
+2021-01-30 16:45:31,335 - Check Element is displayed -INFO - in summary click on proceed To Checkout Button is Displayed successfully
+2021-01-30 16:45:32,785 - Check Element is displayed -INFO - Click on in summary click on proceed To Checkout Button
+2021-01-30 16:45:32,865 - Check Element is displayed -INFO - in addres click on proceed To Checkout Button is Displayed successfully
+2021-01-30 16:45:34,565 - Check Element is displayed -INFO - Click on in addres click on proceed To Checkout Button
+2021-01-30 16:45:34,666 - Get Element Text -INFO - get shipping Delivery Price Actual text is $2.00
+2021-01-30 16:45:34,753 - Check Element is displayed -INFO - accept terms and conditions is Displayed successfully
+2021-01-30 16:45:34,832 - Check Element is displayed -INFO - Click on accept terms and conditions
+2021-01-30 16:45:34,900 - Check Element is displayed -INFO - in delivery click on proceed To Checkout Button is Displayed successfully
+2021-01-30 16:45:36,454 - Check Element is displayed -INFO - Click on in delivery click on proceed To Checkout Button
+2021-01-30 16:45:36,545 - Get Element Text -INFO - get summary product price Actual text is $27.00
+2021-01-30 16:45:36,635 - Get Element Text -INFO - get summary tax price Actual text is $1.16
+2021-01-30 16:45:36,716 - Get Element Text -INFO - get summary total price Actual text is $30.16
+2021-01-30 16:45:36,791 - Get Element Text -INFO - get summary product name Actual text is Blouse
+2021-01-30 16:45:36,857 - Check Element is displayed -INFO -  pay by bank wire is Displayed successfully
+2021-01-30 16:45:37,989 - Check Element is displayed -INFO - Click on  pay by bank wire
+2021-01-30 16:45:38,070 - Get Element Text -INFO - get confirmed total Price Actual text is $30.16
+2021-01-30 16:45:38,157 - Get Element Text -INFO - get confirmed payment method Actual text is You have chosen to pay by bank wire. Here is a short summary of your order:
+2021-01-30 16:45:38,231 - Check Element is displayed -INFO -  confirm order is Displayed successfully
+2021-01-30 16:45:39,956 - Check Element is displayed -INFO - Click on  confirm order
+2021-01-30 16:45:40,072 - Get Element Text -INFO - get confirmation success Actual text is Your order on My Store is complete.
+2021-01-30 16:45:40,139 - Check Element is displayed -INFO -  go To Order History is Displayed successfully
+2021-01-30 16:45:41,552 - Check Element is displayed -INFO - Click on  go To Order History
+2021-01-30 16:45:41,648 - Get Element Text -INFO - get order history confirmation Msg Actual text is ORDER HISTORY
+2021-01-30 16:45:41,649 - CheckOutTheCard -INFO - <<<End TestCase CheckOutTheCard Test>>>
+2021-01-30 16:45:42,656 - Close browser  -INFO - Close Browser ...
